@@ -11,14 +11,19 @@
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#faq">الاسئلة الشائعة </a></li>
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#cta"> التحميل</a></li>
             </ul>
-            <button class="button button4" data-bs-toggle="modal" data-bs-target="#feedbackModal">
+    
+            <a href="https://api.whatsapp.com/send/?phone=966568430828&text&type=phone_number&app_absent=0">
+            
+                <button class="button button4"  >
 
-                <span class="d-flex align-items-center">
-                  
-                    <span class="small">تواصل معنا</span>
-                </span>
-                
-            </button>
+                    <span class="d-flex align-items-center">
+                      
+                        <span class="small">تواصل معنا</span>
+                    </span>
+                    
+                </button>
+            
+            </a>
         </div>
     </div>
 </nav>
