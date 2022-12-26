@@ -7,7 +7,7 @@
                         <div class="col-md-6 mb-5">
                             <!-- Feature item-->
                             <div class="text-center">
-                                <i class="bi-phone icon-feature text-gradient d-block mb-3"></i>
+                                <i class="bi-patch-check icon-feature text-gradient d-block mb-3"></i>
                                 <h3 class="font-alt">دقة في الاستهداف </h3>
                                 <p class="text-muted mb-0">   
                                     
@@ -25,7 +25,7 @@
                         <div class="col-md-6 mb-5">
                             <!-- Feature item-->
                             <div class="text-center">
-                                <i class="bi-camera icon-feature text-gradient d-block mb-3"></i>
+                                <i class="bi-patch-check icon-feature text-gradient d-block mb-3"></i>
                                 <h3 class="font-alt">رسائل مختلفة </h3>
                                 <p class="text-muted mb-0">
                                   كل رسالة تسويقية تعطى رقم تسلسلي فريد  لتقليل امكانية الحظر 
@@ -40,7 +40,7 @@
                         <div class="col-md-6 mb-5 mb-md-0">
                             <!-- Feature item-->
                             <div class="text-center">
-                                <i class="bi-gift icon-feature text-gradient d-block mb-3"></i>
+                                <i class="bi-patch-check icon-feature text-gradient d-block mb-3"></i>
                                 <h3 class="font-alt"> دعم اهم انواع الرسائل</h3>
                                 <p class="text-muted mb-0">
                                     
@@ -77,14 +77,14 @@
                         <div class="col-md-6 mb-5 mb-md-0">
                             <!-- Feature item-->
                             <div class="text-center">
-                                <i class="bi-gift icon-feature text-gradient d-block mb-3"></i>
+                                <i class="bi-patch-check icon-feature text-gradient d-block mb-3"></i>
                                 <h3 class="font-alt">    امن  </h3>
                                 <p class="text-muted mb-0">
                                     
                              
                                     جميع  بياناتك في حساب منفصل باسم مستخدم وكلمة مرور تحددها انت 
                                     <br>
-                                    <br>
+                                    
                                     واتساب سيندر ليس لها اي صلاحية للوصول   حسابك باي شكل من الاشكال 
                         
                                 
@@ -113,7 +113,7 @@
                         <div class="col-md-6 mb-5 mb-md-0">
                             <!-- Feature item-->
                             <div class="text-center">
-                                <i class="bi-gift icon-feature text-gradient d-block mb-3"></i>
+                                <i class="bi-patch-check icon-feature text-gradient d-block mb-3"></i>
                                 <h3 class="font-alt">    عالمي   </h3>
                                 <p class="text-muted mb-0">
                                     
