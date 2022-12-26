@@ -19,8 +19,8 @@
                     </p>
                     
                     <div class="d-flex flex-column flex-lg-row align-items-center">
-                        <a class="me-lg-3 mb-4 mb-lg-0" href="#!"><img width="300px" height="300px" class="app-badge" src="assets/img/dicon.png" alt="..." /></a>
-                        <h>انقر هنا للتحميل </h>
+                        <a class="me-lg-3 mb-4 mb-lg-0" href="#!"><img class="app-badge" src="assets/img/dicon.png" alt="..." /></a>
+                        
                         
                     </div>
                 </div>
