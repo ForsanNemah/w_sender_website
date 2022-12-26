@@ -6,7 +6,7 @@
     <title>واتساب سندر </title>
     <link rel="stylesheet" href="css/my.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/html5-device-mockups/3.2.1/dist/device-mockups.min.css" integrity="sha512-7vS+Cl9RvPlx9DKwnKljVRykKuD94A+w2XDQ4XVe39vdKLx4CkEXPsBdWEVbPTKll5gRSLrRcNKwIYwRRkin4Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+     
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <!-- Google fonts-->

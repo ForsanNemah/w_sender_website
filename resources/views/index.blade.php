@@ -12,6 +12,7 @@
         @include('includes.nav')
         <!-- Mashead header-->
         @include('includes.header')
+        @include('includes.htu')
         <!-- Quote/testimonial aside-->
         @include('includes.after_header')
         <!-- App features section-->

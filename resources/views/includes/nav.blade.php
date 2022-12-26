@@ -10,6 +10,7 @@
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#features">الميزات</a></li>
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#faq">الاسئلة الشائعة </a></li>
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#cta"> التحميل</a></li>
+                <li class="nav-item"><a class="nav-link me-lg-3" href="#htu"> طريقة الاستخدام</a></li>
             </ul>
     
             <a href="https://api.whatsapp.com/send/?phone=966568430828&text&type=phone_number&app_absent=0">
@@ -34,7 +35,7 @@
 
 
 .button {
-  background-color: #04AA6D; /* Green */
+  background-color: #25d446; /* Green */
   border: none;
   color: white;
   padding: 20px;
