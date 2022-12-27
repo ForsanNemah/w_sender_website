@@ -22,14 +22,14 @@
  
 
                         <a href="https://drive.google.com/file/d/1YKsgGp6h-dblMmPf_SZ_O8jmvh2IDVPe/view">
-                            <img width="100%" height="100%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
+                            <img width="80%" height="80%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
                         </a>
                       
                         &nbsp; &nbsp;                     &nbsp; &nbsp;
 
 
                         <a href="https://www.youtube.com/watch?v=owKEGwN2pCg&feature=emb_imp_woyt">
-                            <img width="100%" height="100%" src="assets/img/video_btn.png" class="img-fluid" alt="Responsive image">
+                            <img width="80%" height="80%" src="assets/img/video_btn.png" class="img-fluid" alt="Responsive image">
                         </a>
  
                
