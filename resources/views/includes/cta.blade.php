@@ -7,7 +7,7 @@
                 عملائك بانتظارك الان 
             </h2>
             <a href="https://drive.google.com/file/d/1YKsgGp6h-dblMmPf_SZ_O8jmvh2IDVPe/view">
-                <img width="30%" height="50%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
+                <img width="50%" height="70%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
             </a>
         </div>
     </div>
