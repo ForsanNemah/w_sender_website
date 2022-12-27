@@ -6,7 +6,9 @@
                 <br />
                 عملائك بانتظارك الان 
             </h2>
-            <a class="btn btn-outline-light py-3 px-4 rounded-pill" href="https://startbootstrap.com/theme/new-age" target="_blank">حمله الان </a>
+            <a href="https://drive.google.com/file/d/1YKsgGp6h-dblMmPf_SZ_O8jmvh2IDVPe/view">
+                <img width="20%" height="20%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
+            </a>
         </div>
     </div>
 </section>

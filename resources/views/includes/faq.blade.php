@@ -1,135 +1,202 @@
- 
-<html lang="ar">
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
  
-<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
  
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<body dir="rtl"  >
-<section class="main-content">
+<body></body>
+<section class="main-content" dir="rtl">
   <div class="container" id="faq">
-    <h1 class="text-center text-uppercase mb-5">
-        الاسئلة الشائعة
-
-    
-    </h1>
+    <h1 class="text-center text-uppercase mb-5"> الأسئلة الشائعة </h1>
     <br>
     <br>
     <div class="row flex-center">
       <div class="col-sm-10 offset-sm-2">
         <div class="accordion" id="accordionExample">
 
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button class="accordion-button  " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              <div class="circle-icon"> <i class="fa fa-question"></i> </div>
-       <p>   	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;  هل واتساب سندر امن  </p>
-          
-            </button>
-        
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-              <div class="accordion-body"> <strong>
- 
-                نعم فجميع بياناتك محفوظة في حساب خاص بك باسم مستخدم وكلمة مرور تحددها انت 
-            
-            
-            
-            </div>
-            </div>
-          </div>
-
-
-
-
-
-
-
-
-
-
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              <div class="circle-icon"> <i class="fa fa-question"></i> </div>
-       <p>   	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;        هل يمكن لواتساب سندر الوصول الى حسابي   </p>
-          
-            </button>
-        
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-              <div class="accordion-body"> <strong>
- 
-               واتساب سندر عبارة عن روبوت ذكي يقوم بالارسال بدلا عنك وليس له اي وصول لحسابك الواتساب 
-            
-            
-            
-            </div>
-            </div>
-          </div>
-          
            
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
+              <span> &nbsp; &nbsp; &nbsp; &nbsp;       هل احتاج الى جهاز كمبيوتر ؟  </span> </button>
+				</button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong> </strong> 
+  
+                تطبيق واتساب سندر  يعمل   على نظام الاندرويد 
+                .
+            
+            </div>
+            </div>
+          </div>
+
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
+				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
+              <span>&nbsp; &nbsp; &nbsp; &nbsp;   ماهي اللغات المدعومة </span> </button>
+				</button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong> </strong> 
+ 
+
+    يدعم واتساب  سندر اللغة العربية والانجليزية 
+            
+             </div>
+            </div>
+          </div>
+
+
+
 
 
 
 
 
           <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              <div class="circle-icon"> <i class="fa fa-question"></i> </div>
-       <p>   	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;       كم استطيع ان ارسل رسائل في اليوم الواحد   </p>
-          
-            </button>
-        
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
+				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
+              <span>&nbsp; &nbsp; &nbsp; &nbsp;      	  	  	  	         هل يمكن لواتساب سندر الوصول الى حسابي     </span> </button>
+				</button>
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-              <div class="accordion-body"> <strong>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong> </strong> 
  
-                 حسب سياسة واتساب يمكنك ارسال الكم الذي تريد بشرط ان تكون الرسالة  ان لا تحصل رسالتك على بلاغات من العملاء انها رسالة مزعجة 
+
+                واتساب سندر عبارة عن روبوت ذكي يقوم بالارسال بدلا عنك وليس له اي وصول لحسابك الواتساب
             
-            
-            
-            </div>
+             </div>
             </div>
           </div>
 
 
 
+
+
+          
           <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              <div class="circle-icon"> <i class="fa fa-question"></i> </div>
-       <p>   	&nbsp; 	&nbsp; 	&nbsp; 	&nbsp;       هل احتاج الى جهاز كمبيوتر    </p>
-          
-            </button>
-        
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
+				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
+              <span>&nbsp; &nbsp; &nbsp; &nbsp;      	  	  	  	        كم استطيع ان ارسل رسائل في اليوم الواحد     </span> </button>
+				</button>
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-              <div class="accordion-body"> <strong>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong> </strong> 
  
-                 واتساب سندر  سندر يعمل فقط على اجهزة الاندرويد لتقليل احتمالية الحظر 
+                حسب سياسة واتساب يمكنك ارسال الكم الذي تريد بشرط ان تكون الرسالة ان لا تحصل رسالتك على بلاغات من العملاء انها رسالة مزعجة
+    
             
-            
-            </div>
+             </div>
             </div>
           </div>
+
+
+
+
+
+
+<!--
           
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
+				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
+              <span>&nbsp; &nbsp; &nbsp; &nbsp;     </span> </button>
+				</button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong> </strong> 
+ 
+
+    
+            
+             </div>
+            </div>
+          </div>
+
+
+
+
+
+
+
+
+
           
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
+				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
+              <span>&nbsp; &nbsp; &nbsp; &nbsp;     </span> </button>
+				</button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong> </strong> 
+ 
+
+    
+            
+             </div>
+            </div>
+          </div>
 
 
 
 
 
 
+          
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
+				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
+              <span>&nbsp; &nbsp; &nbsp; &nbsp;     </span> </button>
+				</button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong> </strong> 
+ 
+
+    
+            
+             </div>
+            </div>
+          </div>
 
 
 
 
 
+          
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
+				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
+              <span>&nbsp; &nbsp; &nbsp; &nbsp;     </span> </button>
+				</button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body"> <strong> </strong> 
+ 
+
+    
+            
+             </div>
+            </div>
+          </div>
+
+
+
+
+        -->
 
 
 
@@ -144,7 +211,9 @@
 </section>
 <script src="<a href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" target="_blank" rel="noreferrer noopener">https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js</a>" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
- 
+</html>
+
+
 <style>
 
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");

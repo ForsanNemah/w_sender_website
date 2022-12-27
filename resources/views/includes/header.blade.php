@@ -4,23 +4,35 @@
             <div class="col-lg-6">
                 <!-- Mashead text and app badges-->
                 <div class="mb-5 mb-lg-0 text-center text-lg-start">
-                    <h1 class="display-1 lh-1 mb-3">
+                    <h1  >
                         
-                    تواصل مع  الالاف من عملائك بنقرة زر 
+                    تواصل مع  الالاف من عملائك بنقرة زر واحدة
 
 
 
                     </h1>
-                    <p class="lead fw-normal text-muted mb-5">
+                    <p  >
                         
                          مع اقوى الاحتياطات ضد الحظر 
                     وبشكل امن وفعال 
-                    
+                    ......
                     </p>
                     
                     <div class="d-flex flex-column flex-lg-row align-items-center">
-                        <a class="btn btn-outline-dark py-3 px-4 rounded-pill" href="https://startbootstrap.com/theme/new-age" target="_blank">حمله الان </a>
-                        
+ 
+
+                        <a href="https://drive.google.com/file/d/1YKsgGp6h-dblMmPf_SZ_O8jmvh2IDVPe/view">
+                            <img width="100%" height="100%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
+                        </a>
+                      
+                        &nbsp; &nbsp;                     &nbsp; &nbsp;
+
+
+                        <a href="https://www.youtube.com/watch?v=owKEGwN2pCg&feature=emb_imp_woyt">
+                            <img width="100%" height="100%" src="assets/img/video_btn.png" class="img-fluid" alt="Responsive image">
+                        </a>
+ 
+               
                         
                     </div>
                 </div>

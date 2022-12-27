@@ -6,8 +6,8 @@
 </h1>
 
 
-<div class="ratio ratio-16x9">
-    <iframe src="https://www.youtube.com/embed/owKEGwN2pCg" title="YouTube video" allowfullscreen></iframe>
+<div class="ratio ratio-16x9" width="50%" >
+    <iframe   src="https://www.youtube.com/embed/owKEGwN2pCg" title="YouTube video" allowfullscreen></iframe>
   </div>
 
 
