@@ -18,6 +18,7 @@
         @include('includes.after_header')
         <!-- App features section-->
         @include('includes.features')
+        @include('includes.ads')
         @include('includes.faq')
         <!-- Basic features section-->
        
