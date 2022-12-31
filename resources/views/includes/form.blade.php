@@ -107,3 +107,34 @@
 
 </body>
 </html>
+
+
+<script>
+
+
+
+
+const scriptURL = action_url
+  const form = document.forms['myform']
+
+  form.addEventListener('submit', e => {
+
+	 
+	//window.location.replace("done.html");
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => 
+	  
+	  window.open("https://wa.me/"+{{config('app.phn')}})
+	  
+	  
+	 
+	  )
+      .catch(error => console.error('Error!', error.message))
+  })
+
+
+
+
+
+</script>
