@@ -1,6 +1,8 @@
 <nav dir="rtl" class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
     <div class="container px-5">
-        <a class="navbar-brand fw-bold" href="#page-top">واتساب سندر</a>
+
+        <img   src="assets/img/logo.png" class="img-fluid" alt="Responsive image" width="100px" height="100px" >
+        <a class="navbar-brand fw-bold" href="#page-top"> </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
            القائمة 
             <i class="bi-list"></i>
@@ -11,9 +13,10 @@
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#faq">الاسئلة الشائعة </a></li>
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#cta"> التحميل</a></li>
                 <li class="nav-item"><a class="nav-link me-lg-3" href="#htu"> طريقة الاستخدام</a></li>
+                <li class="nav-item"><a class="nav-link me-lg-3" href="#contact_form">  إشتراك</a></li>
             </ul>
     
-            <a href="https://api.whatsapp.com/send/?phone=966568430828&text&type=phone_number&app_absent=0">
+            <a href="https://api.whatsapp.com/send/?phone={{config('app.phn')}}&text&type=phone_number&app_absent=0">
             
                 <button class="button button4"  >
 

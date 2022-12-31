@@ -83,6 +83,8 @@ return [
     */
 
     'locale' => 'en',
+    'phn' => '966568430828',
+    'download_link' => 'https://drive.google.com/file/d/1YKsgGp6h-dblMmPf_SZ_O8jmvh2IDVPe/view',
 
     /*
     |--------------------------------------------------------------------------

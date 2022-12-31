@@ -6,7 +6,7 @@
                 <div class="mb-5 mb-lg-0 text-center text-lg-start">
                     <h1  >
                         
-                    تواصل مع  الالاف من عملائك بنقرة زر واحدة
+                    تواصل مع  الألاف من عملائك بنقرة زر واحدة
 
 
 
@@ -21,15 +21,15 @@
                     <div class="d-flex flex-column flex-lg-row align-items-center">
  
 
-                        <a href="https://drive.google.com/file/d/1YKsgGp6h-dblMmPf_SZ_O8jmvh2IDVPe/view">
-                            <img width="80%" height="80%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
+                        <a href="{{config('app.download_link')}}">
+                            <img width="50%" height="70%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
                         </a>
                       
                         &nbsp; &nbsp;                     &nbsp; &nbsp;
 
 
                         <a href="https://www.youtube.com/watch?v=owKEGwN2pCg&feature=emb_imp_woyt">
-                            <img width="80%" height="80%" src="assets/img/video_btn.png" class="img-fluid" alt="Responsive image">
+                            <img width="50%" height="70%" src="assets/img/video_btn.png" class="img-fluid" alt="Responsive image">
                         </a>
  
                

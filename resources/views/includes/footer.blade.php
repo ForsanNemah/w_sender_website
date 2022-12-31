@@ -27,9 +27,7 @@
 
         <ul class="contact">
             <li>
-                <a href="https://twitter.com/WMC_ksa" class="fa fa-twitter">
-
-                </a>
+                
             </li>
 
             <li>
