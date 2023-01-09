@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>واتساب سندر </title>
+    <title>{{config('app.titel')}}</title>
     <link rel="stylesheet" href="css/my.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/html5-device-mockups/3.2.1/dist/device-mockups.min.css" integrity="sha512-7vS+Cl9RvPlx9DKwnKljVRykKuD94A+w2XDQ4XVe39vdKLx4CkEXPsBdWEVbPTKll5gRSLrRcNKwIYwRRkin4Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
      

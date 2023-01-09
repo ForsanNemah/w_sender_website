@@ -83,6 +83,7 @@ return [
     */
 
     'locale' => 'en',
+    'titel' => 'ويندو سندر ',
    
     'action_url' => 'https://script.google.com/macros/s/AKfycbx04QAVpmvPjI_PqXJO6kPCemsJ4TUjuJzKssrt0IrrBqWYHfNGuE7FmY_glXsxrP5K/exec',
     'phn' => '966553907575',
