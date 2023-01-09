@@ -22,14 +22,14 @@
  
 
                         <a href="{{config('app.download_link')}}">
-                            <img width="50%" height="70%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
+                            <img width="50%" height="80%" src="assets/img/download_btn.png" class="img-fluid" alt="Responsive image">
                         </a>
                       
                         &nbsp; &nbsp;                     &nbsp; &nbsp;
 
-
-                        <a href="https://www.youtube.com/watch?v=owKEGwN2pCg&feature=emb_imp_woyt">
-                            <img width="50%" height="70%" src="assets/img/video_btn.png" class="img-fluid" alt="Responsive image">
+                        
+                        <a href="{{config('app.header_video_link')}}">
+                            <img width="50%" height="80%" src="assets/img/video_btn.png" class="img-fluid" alt="Responsive image">
                         </a>
  
                

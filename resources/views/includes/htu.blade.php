@@ -7,7 +7,7 @@
 
 
 <div class="ratio ratio-16x9" width="50%" id="htu" >
-    <iframe   src="https://www.youtube.com/embed/?listType=playlist&list=PLo2nZYkmwvnK5WR77LZL22RY1ppcEdIdp" title="YouTube video" allowfullscreen></iframe>
+    <iframe   src="{{config('app.video_list_link')}}" title="YouTube video" allowfullscreen></iframe>
   </div>
 
 
