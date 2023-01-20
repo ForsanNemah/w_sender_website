@@ -28,7 +28,7 @@
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
               <div class="accordion-body"> <strong> </strong> 
   
-                تطبيق واتساب سندر  يعمل   على نظام الاندرويد 
+                تطبيق ويندو سندر  يعمل   على نظام الاندرويد 
                 .
             
             </div>
@@ -46,7 +46,7 @@
               <div class="accordion-body"> <strong> </strong> 
  
 
-    يدعم واتساب  سندر اللغة العربية والانجليزية 
+    يدعم ويندو  سندر اللغة العربية والانجليزية 
             
              </div>
             </div>
@@ -63,14 +63,14 @@
             <h2 class="accordion-header" id="headingThree">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> 
 				<div class="circle-icon"> <i class="fa fa-question"></i> </div>
-              <span>&nbsp; &nbsp; &nbsp; &nbsp;      	  	  	  	         هل يمكن لواتساب سندر الوصول الى حسابي     </span> </button>
+              <span>&nbsp; &nbsp; &nbsp; &nbsp;      	  	  	  	         هل يمكن لويندو سندر الوصول الى حسابي     </span> </button>
 				</button>
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
               <div class="accordion-body"> <strong> </strong> 
  
 
-                واتساب سندر عبارة عن روبوت ذكي يقوم بالارسال بدلا عنك وليس له اي وصول لحسابك الواتساب
+                ويندو سندر عبارة عن روبوت ذكي يقوم بالارسال بدلا عنك وليس له اي وصول لحسابك الواتساب
             
              </div>
             </div>
@@ -91,7 +91,7 @@
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
               <div class="accordion-body"> <strong> </strong> 
  
-                حسب سياسة واتساب يمكنك ارسال الكم الذي تريد بشرط ان تكون الرسالة ان لا تحصل رسالتك على بلاغات من العملاء انها رسالة مزعجة
+                حسب سياسة واتساب يمكنك ارسال الكم الذي تريد بشرط       ان لا تحصل رسالتك على بلاغات من العملاء على انها رسالة مزعجة
     
             
              </div>
